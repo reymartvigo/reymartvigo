@@ -1,27 +1,49 @@
-<h1 align="center">Hi 👋, I'm Reymart Vigo</h1>
-<h3 align="center">Soon to be a Front-End Developer</h3>
+# Reymart Vigo
 
-- 🌱 I’m currently learning **JavaScript , Bootstrap , React**
+- Location: Taguig, National Capital Region, Philippines
+- Email: vigoreymart11@gmail.com
+- LinkedIn: [linkedin.com/in/reymart-vigo](https://www.linkedin.com/in/reymart-vigo)
+- FrontendMentor: [frontendmentor.io/profile/reymartvigo](https://www.frontendmentor.io/profile/reymartvigo)
 
-- 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/reymartvigo](https://www.frontendmentor.io/profile/reymartvigo)
+## Summary
 
-- 📫 How to reach me **vigoreymart11@gmail.com**
+I am a highly patient, passionate, and dedicated individual with a strong commitment to integrity and excellence. With a positive attitude and a solutions-oriented mindset, I consistently strive to overcome challenges and deliver optimal outcomes. Currently pursuing a Bachelor of Science in Information Technology, I have gained valuable experiences in effectively managing time and successfully working under pressure to meet demanding academic requirements. I have certifications in Responsive Web Design and JavaScript Algorithms and Data Structures, showcasing my dedication to expanding my knowledge and skills. My skill set encompasses exceptional problem-solving abilities, adaptability, critical thinking, effective communication, collaborative teamwork, and a strong sense of responsibility. Although my professional accomplishments are currently in development, my robust educational background, certifications, and versatile skill set position me to make meaningful contributions within a professional environment.
 
-- ⚡ Fun fact **I can sing and play guitar :)**
+## Experience
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/reymart_vigo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reymart_vigo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/reymart vigo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reymart vigo" height="30" width="40" /></a>
-<a href="https://fb.com/vigoreymart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vigoreymart" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/reymartvigo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="reymartvigo" height="30" width="40" /></a>
-</p>
+### Frontend Developer
+Rizal Technological University
+Aug 2022 - Present (11 months)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+- Capstone Project / OJT
+- Optimizing the user experience.
+- Using HTML, JavaScript, Sass, and Bootstrap 5 to bring concepts to life.
+- Developing and maintaining the user interface.
+- Implementing design on mobile websites.
+- Following SEO best practices.
+- Fixing bugs and testing for usability.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reymartvigo&show_icons=true&locale=en&layout=compact" alt="reymartvigo" /></p>
+## Education
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reymartvigo&show_icons=true&locale=en" alt="reymartvigo" /></p>
+- Bachelor of Science - BS, Information Technology  
+  Rizal Technological University  
+  2019 - 2023
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reymartvigo&" alt="reymartvigo" /></p>
+## Licenses & Certifications
+
+- Responsive Web Design - freeCodeCamp
+- JavaScript Algorithms and Data Structures - freeCodeCamp
+
+## Skills
+
+- Search Engine Optimization (SEO)
+- Responsive Web Design
+- HTML
+- Front-end Coding
+- React.js
+- SASS
+- JavaScript
+- Cascading Style Sheets (CSS)
+- HTML5
+
+Feel free to customize the format and styling according to your preferences when creating your GitHub readme.
