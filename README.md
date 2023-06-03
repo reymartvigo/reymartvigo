@@ -46,4 +46,4 @@ Aug 2022 - Present (11 months)
 - Cascading Style Sheets (CSS)
 - HTML5
 
-Feel free to customize the format and styling according to your preferences when creating your GitHub readme.
+
