@@ -13,14 +13,13 @@ I am a highly patient, passionate, and dedicated individual with a strong commit
 
 ### Frontend Developer
 Rizal Technological University
-Aug 2022 - Present (11 months)
+Aug 2022 - May 2023 (10 months)
 
 - Capstone Project / OJT
 - Optimizing the user experience.
 - Using HTML, JavaScript, Sass, and Bootstrap 5 to bring concepts to life.
 - Developing and maintaining the user interface.
 - Implementing design on mobile websites.
-- Following SEO best practices.
 - Fixing bugs and testing for usability.
 
 ## Education
