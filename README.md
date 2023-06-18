@@ -45,5 +45,6 @@ Aug 2022 - May 2023 (10 months)
 - JavaScript
 - Cascading Style Sheets (CSS)
 - HTML5
+- Tailwind CSS
 
 
