@@ -12,7 +12,7 @@ I am a highly patient, passionate, and dedicated individual with a strong commit
 
 ## Experience
 
-### Frontend Developer
+### Frontend Developer / Internship 
 Rizal Technological University
 Aug 2022 - May 2023 (10 months)
 
